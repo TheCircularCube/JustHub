@@ -1,4 +1,4 @@
-  --Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCircularCube/JustHub/main/ScriptLoader.lua", true))()
+  --> Script: loadstring(game:HttpGet("https://raw.githubusercontent.com/TheCircularCube/JustHub/main/ScriptLoader.lua", true))()
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
